@@ -1,0 +1,28 @@
+{
+	"name": "heart",
+	"displayName": "Thomas♥",
+	"description": "yup",
+	"publisher": "ThomasTruong",
+	"version": "0.2.2",
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Thomas♥",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Thomas♥-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f6d93438-36d4-4779-a52b-1594414a74e1",
+		"publisherId": "7da91f6e-87bb-4c01-9c0f-0ebe01734c88",
+		"publisherDisplayName": "Thomas Truong",
+		"installedTimestamp": 1624342969613
+	}
+}
